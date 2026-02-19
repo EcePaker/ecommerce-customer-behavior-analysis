@@ -57,7 +57,8 @@ The following SQL analyses were performed:
 
 - Revenue grouped by country and date
 
-All SQL queries are available in the SQL folder.
+## SQL Queries
+All SQL queries are available in the [`sql/queries.sql`](sql/queries.sql) file.
 
 ---
 
