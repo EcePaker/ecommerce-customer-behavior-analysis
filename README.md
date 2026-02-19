@@ -17,6 +17,18 @@ Dataset:
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ---
+## 🎯 Business Questions
+
+This analysis aims to answer the following business questions:
+
+- Which products generate the highest revenue?
+- Which products are most popular among customers?
+- Are revenue-generating products also the most frequently purchased?
+- Which countries contribute most to total revenue?
+- How does monthly revenue fluctuate over time?
+- Who are the highest-value customers?
+  
+---
 
 ## 🧹 Data Cleaning (Google Sheets)
 
@@ -50,7 +62,6 @@ All SQL queries are available in the SQL folder.
 ---
 
 ## 📊 Tableau Dashboards
-## 📊 Tableau Dashboards
 
 Two dashboards were created as part of this project:
 
@@ -75,17 +86,15 @@ This extended dashboard includes:
 
 🔗 View Dashboard:
 https://public.tableau.com/views/CustomerProductInsights/CustomerProductInsights?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Two dashboards were created:
-
-These additional insights highlight the difference between:
-- Revenue concentration
-- Product popularity across countries
+![Portfolio Dashboard](e-commerce-sales-overview.png)
 
 ---
 
-## 🚀 Key Insights
+## 🔍 Key Insights
 
 - Revenue is heavily concentrated in a small number of countries.
-- Certain products generate high revenue but are not necessarily the most widely purchased.
-- Product popularity and revenue generation show different behavioral patterns.
+- The United Kingdom contributes the majority of total revenue.
+- Some high-revenue products are not necessarily the most popular by unique customer count.
+- Product popularity and revenue generation follow different behavioral patterns.
 - Seasonal trends indicate fluctuations in mid-year and year-end performance.
+
