@@ -63,7 +63,7 @@ This dashboard includes:
 
 🔗 View Dashboard:
 https://public.tableau.com/views/E-CommerceSalesOverview_17714701945290/E-commerceSalesOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
+![Group Dashboard](customer-product-insights.png)
 ---
 
 ### 2️⃣ Customer & Product Insights (Portfolio Extension)
